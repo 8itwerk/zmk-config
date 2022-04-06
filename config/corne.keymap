@@ -48,7 +48,7 @@
                         bindings = <
    &trans  &kp DLLR &kp AT   &kp HASH  &kp EXCL  &kp AMPS   &trans   &trans       &trans       &trans       &trans &trans 
    &trans  &kp BSLH &kp LBRC &kp LBKT  &kp LPAR  &kp PIPE   &kp LEFT &kp DOWN     &kp UP       &kp RIGHT    &trans &trans 
-   &trans  &trans   &kp RBRC &kp RBKT  &kp RPAR  &kp GRAVE  &trans   &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &trans &trans
+   &trans  &trans   &kp RBRC &kp RBKT  &kp RPAR  &kp GRAVE  &bt BT_CLR   &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &trans &trans
                     	     &trans    &kp TILDE &kp UNDER  &trans   &trans   &trans
                         >;
                 };
